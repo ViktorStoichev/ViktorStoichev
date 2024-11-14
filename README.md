@@ -52,8 +52,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorStoichev&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false" width="450"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorStoichev&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorStoichev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" width="450"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorStoichev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="350"/>
 </div>
 
 <br/><br/>
@@ -62,12 +62,12 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViktorStoichev&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4" width="800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ViktorStoichev&theme=blueberry&no-frame=false&no-bg=true&margin-w=4" width="800"/>
 </div>
 
 ---
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ViktorStoichev&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" width="450"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ViktorStoichev&limit=5&theme=blueberry&combine_all_yearly_contributions=true" width="450"/>
 </div>
