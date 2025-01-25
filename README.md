@@ -39,16 +39,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViktorStoichev/github-contribution-grid-snake/refs/heads/main/github-user-contribution.svg?token=GHSAT0AAAAAACZZBAQHOY6MAYSCBY3RQJPUZZV2JEA" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
