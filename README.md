@@ -11,7 +11,7 @@
 <div align="center">
  
 🌟 Focused on crafting clean, efficient, and impactful applications<br>
-🎯 Always excited to learn new technologies and enhance my skills, especially in **Node.js** and **Angular**<br>
+🎯 Always excited to learn new technologies and enhance my skills, especially in **Node.js** and **React**<br>
 🤝 Open to collaborating on exciting projects and building creative solutions<br>
 
  </div>
@@ -22,7 +22,6 @@
 <p align="center">
   <a href="mailto:viktor.stoichev534@gmail.com"><img src="https://img.shields.io/badge/Gmail-viktor.stoichev534@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
   <a href="https://www.linkedin.com/in/viktor-stoichev-20877a338" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Viktor Stoichev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://reddit.com/user/Miserable-Bat-3330" target="_blank"><img src="https://img.shields.io/badge/Reddit-Viktor Stoichev-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"></a>
 </p>
 
 </div>
@@ -34,30 +33,4 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,angular" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViktorStoichev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" width="450"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorStoichev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="350"/>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViktorStoichev&theme=blueberry&no-frame=false&no-bg=true&margin-w=4" width="800"/>
-</div>
-
----
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ViktorStoichev&limit=5&theme=blueberry&combine_all_yearly_contributions=true" width="450"/>
 </div>
